@@ -1,2 +1,2 @@
 ## **My first project**
-## This is my first rep0
+## This is my first repo
